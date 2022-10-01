@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Aman Bharti.</h2>
 
-<h3> 👨🏻‍💻 &nbsp; About Me </h3>
+<h3> 👨🏻‍💻 About Me </h3>
 - 🎓 &nbsp; Studying Computer Science
 - 🔭 &nbsp; I’m currently more into the Programming
 - 🌱 &nbsp; I’m currently learning Open Source Contribution.
@@ -34,9 +34,10 @@
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-  <br>
-[![Twitter Badge](https://img.shields.io/badge/-@aman0ab-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
-[![Gmail Badge](https://img.shields.io/badge/-amanbharti0ab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](amanbharti0ab@gmail.com)
+  <br/>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanbharti0ab@gmail.com)](mailto:amanbharti0ab@gmail.com)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman0ab)
 
 
 ⭐️ From [Aman Bharti](https://github.com/Aman0ab)
