@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Aman Bharti.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
-- 🎓 &nbsp; Studying Computer Science
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 🎓 &nbsp; Studying Computer Science.
 - 🔭 &nbsp; I’m currently more into the Programming
 - 🌱 &nbsp; I’m currently learning Open Source Contribution.
 - 🌱 &nbsp; Exploring new technologies and developing software solutions.
-
+- 
 # *I am willing to collaborate as a team player building better code.*
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -30,14 +30,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman0ab&theme=buefy&show_icons=true"</img>
 </a>
 
-<br/>
-
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-  <br/>
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanbharti0ab@gmail.com)](mailto:amanbharti0ab@gmail.com)
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman0ab)
+<h3> &nbsp;Let's connect and chat! Open to anything under the sun.</h3>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman0ab)
 
 
 ⭐️ From [Aman Bharti](https://github.com/Aman0ab)
