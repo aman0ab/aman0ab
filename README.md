@@ -34,9 +34,9 @@
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-  
+  <br>
 [![Twitter Badge](https://img.shields.io/badge/-@aman0ab-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](amanbharti0ab@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amanbharti0ab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](amanbharti0ab@gmail.com)
 
 
 ⭐️ From [Aman Bharti](https://github.com/Aman0ab)
