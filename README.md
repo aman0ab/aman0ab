@@ -1,11 +1,10 @@
 <h2> Hey there! I'm Aman Bharti.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-🎓 &nbsp; Studying Computer Science
-🔭 &nbsp; I’m currently more into the Programming
-🌱 &nbsp; I’m currently learning Open Source Contribution.
-🌱 &nbsp; Exploring new technologies and developing software solutions.
+<h3> 👨🏻‍💻 &nbsp; About Me </h3>
+- 🎓 &nbsp; Studying Computer Science
+- 🔭 &nbsp; I’m currently more into the Programming
+- 🌱 &nbsp; I’m currently learning Open Source Contribution.
+- 🌱 &nbsp; Exploring new technologies and developing software solutions.
 
 # *I am willing to collaborate as a team player building better code.*
 
