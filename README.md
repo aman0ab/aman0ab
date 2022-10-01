@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🎓 Studying Computer Science
-🔭 I’m currently more into the Programming
-🌱 I’m currently learning Open Source Contribution.
-🌱 Exploring new technologies and developing software solutions.
+🎓 &nbsp; Studying Computer Science
+🔭 &nbsp; I’m currently more into the Programming
+🌱 &nbsp; I’m currently learning Open Source Contribution.
+🌱 &nbsp; Exploring new technologies and developing software solutions.
 
 # *I am willing to collaborate as a team player building better code.*
 
