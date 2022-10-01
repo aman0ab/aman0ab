@@ -2,8 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science.
-- 🌱 &nbsp; Exploring new technologies and developing software solutions.
+🎓 Studying Computer Science
+🔭 I’m currently more into the Programming
+🌱 I’m currently learning Open Source Contribution.
+🌱 Exploring new technologies and developing software solutions.
+
+# *I am willing to collaborate as a team player building better code.*
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,19 +28,16 @@
 <br/>
 
 <a href="https://github.com/Aman0ab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman0ab&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman0ab&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman0ab&theme=buefy&show_icons=true"</img>
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
-<a href="https://twitter.com/aman0ab">
-  <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  
+[![Twitter Badge](https://img.shields.io/badge/-@aman0ab-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](amanbharti0ab@gmail.com)
 
-⭐️ From [Aman0ab](https://github.com/Aman0ab)
+
+⭐️ From [Aman Bharti](https://github.com/Aman0ab)
