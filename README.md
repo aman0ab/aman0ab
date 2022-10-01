@@ -5,7 +5,6 @@
 - 🔭 &nbsp; I’m currently more into the Programming
 - 🌱 &nbsp; I’m currently learning Open Source Contribution.
 - 🌱 &nbsp; Exploring new technologies and developing software solutions.
-- 
 # *I am willing to collaborate as a team player building better code.*
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
