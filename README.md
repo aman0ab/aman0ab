@@ -31,7 +31,5 @@
 </a>
 
 <h3> &nbsp;Let's connect and chat! Open to anything under the sun.</h3>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman0ab)
-
 
 ⭐️ From [Aman Bharti](https://github.com/Aman0ab)
