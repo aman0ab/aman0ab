@@ -34,6 +34,5 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Aman_Bharti-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
 [![Gmail Badge](https://img.shields.io/badge/-amanbharti0ab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanbharti0ab@gmail.com)](mailto:amanbharti0ab@gmail.com)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aman0ab.visitor-badge)
 
 ⭐️ From [Aman Bharti](https://github.com/Aman0ab)
