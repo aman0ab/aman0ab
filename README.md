@@ -1,4 +1,4 @@
-<h2> 👋 Namaste I'm Aman Bharti.</h2>
+<h2> :pray: Namaste I'm Aman Bharti.</h2>
 
 ### 👨🏻‍💻 About Me:</br>
 - 🎓 Studying Computer Science.
