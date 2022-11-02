@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me:</br>
 - 🎓 Studying Computer Science.
 - 🔭 I’m currently more into the **Programming**
-- 🌱 I’m currently learning **Open Source Contribution.**
+- 🌱 I’m currently learning and Practicing **Leetcode**
 - 👯 Exploring new technologies and developing software solutions.
 
 ### *I am willing to collaborate as a team player building better code.*
