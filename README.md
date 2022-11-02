@@ -26,10 +26,6 @@
 
 <br/>
 
-<a href="https://github.com/Aman0ab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman0ab&theme=buefy&show_icons=true"</img>
-</a>
-
 <h3> &nbsp;Let's connect and chat! Open to anything under the sun.</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Aman_Bharti-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
