@@ -24,8 +24,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
 <h3> &nbsp;Let's connect and chat! Open to anything under the sun.</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Aman_Bharti-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
