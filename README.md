@@ -26,7 +26,7 @@
 
 <h3> &nbsp;Let's connect and chat! Open to anything under the sun.</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-Aman_Bharti-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aman0ab)](https://twitter.com/aman0ab)
+
 [![Gmail Badge](https://img.shields.io/badge/-amanbharti0ab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanbharti0ab@gmail.com)](mailto:amanbharti0ab@gmail.com)
 
 ⭐️ From [Aman Bharti](https://github.com/Aman0ab)
