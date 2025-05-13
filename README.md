@@ -1,9 +1,9 @@
 <h2> :pray: Namaste! I'm Aman </h2>
 
 ### 👨🏻‍💻 About Me:</br>
-- 🎓 Studying Computer Science.
+- 🎓 Graduate Computer Science.
 - 🔭 I’m currently more into the **Programming**
-- 🌱 I’m currently learning and Practicing **Leetcode**
+- 🌱 I’m currently learning and Practicing **Codeforce|Leetcode**
 - 👯 Exploring new technologies and developing software solutions.
 
 ### *I am willing to collaborate as a team player building better code.*
